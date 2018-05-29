@@ -10,6 +10,8 @@ public class Holamundo {
     JOptionPane.showMessageDialog(null, "hello world"
             + "esto no funcionna");
     
+    
+    JOptionPane.showMessageDialog(null, "ya la cagamos en progra:v");
     }
     
 }
